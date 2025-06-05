@@ -1,0 +1,10 @@
+.responsive-image {
+  aspect-ratio: 1.42;
+  object-fit: cover;
+  object-position: center;
+  width: 100%;
+  margin-top: 20px;
+  min-height: 0px;
+  min-width: 20px;
+  overflow: hidden;
+}
